@@ -4,13 +4,13 @@
     "repository": "https://github.com/Mrigank11/embetacloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
-            "description": "Google Project's Client ID"
+            "description": "790993426418-t32n951ipq97gbgiq7m593vqkdn1fdht.apps.googleusercontent.com"
         },
         "GOOGLE_CLIENT_SECRET": {
-            "description": "Google Project's Client Secret"
+            "description": "8Y0qhKqul0QQ1vo4re5rrtqZ"
         },
         "GOOGLE_REDIRECT_URL": {
-            "description": "Google Project's Redirect url"
+            "description": "https://ffansubclub.herokuapp.com"
         }
     }
 }
